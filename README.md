@@ -1,0 +1,2 @@
+# docker-cutadapt
+Dockerized cutadapt
